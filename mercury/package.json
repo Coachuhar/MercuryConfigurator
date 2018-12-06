@@ -1,0 +1,38 @@
+{
+  "name": "mercury",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development ./mercury/frontend/src/index.js --output ./mercury/frontend/static/frontend/main.js --config webpack.config.js",
+    "build": "webpack --mode production ./mercury/frontend/src/index.js --output ./mercury/frontend/static/frontend/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "file-loader": "^2.0.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "reactstrap": "^6.3.1",
+    "url-loader": "^1.1.1",
+    "weak-key": "^1.0.1",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "braintree-web": "^2.32.1",
+    "css-loader": "^1.0.0",
+    "style-loader": "^0.22.1",
+    "svg-loader": "0.0.2",
+    "svg-react-loader": "^0.4.5"
+  }
+}
