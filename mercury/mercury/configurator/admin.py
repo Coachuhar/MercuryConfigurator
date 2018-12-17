@@ -11,7 +11,8 @@ from django.http import HttpResponse, HttpResponseRedirect
 from django.utils.safestring import mark_safe
 from django.urls import path, reverse
 
-from import_export.admin import ImportExportModelAdmin
+#Versioning needs fixed in order to upload excel sheets 
+#from import_export.admin import ImportExportModelAdmin
 
 
 
