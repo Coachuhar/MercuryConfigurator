@@ -28,7 +28,7 @@
     "webpack-cli": "^3.1.0"
   },
   "dependencies": {
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.1.2",
     "braintree-web": "^2.32.1",
     "css-loader": "^1.0.0",
     "style-loader": "^0.22.1",
