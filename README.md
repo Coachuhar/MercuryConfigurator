@@ -13,13 +13,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
+Django version
+Webpack version
+react and react dom 
+
+
 ```
 Give examples
 ```
 
-### Installing
-
-
+### Running the App
 
 ```
 Give examples 
@@ -28,11 +31,15 @@ Give examples
 
 ### Dependencies and Packages 
 
+list package.json basically 
+
 ## Core Feature still needed
 
-Add additional notes about how to deploy this on a live system
+Core features still needed
 
 ## Other Issues and Bugs
+
+other issues and bugs
 
 ## Built With
 
@@ -55,4 +62,4 @@ No Current License
 
 * Thanks to Biddle's Escape for the coffee
 * And Jay and Tom for the company
-* And to Zach for giving me an interesting project to work on 
+* And to Zach for the project and Mercury
