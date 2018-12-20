@@ -78,6 +78,8 @@ Taken from package.json file
 
 > Need to limit information on records returned from database in the lens stack section 
 
+> App component is too messy and needs to be split up into other components
+
 
 ## Possible Future Features 
 
