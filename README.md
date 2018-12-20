@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to run the project
 
 * [Python 3](https://www.python.org/)
-* [PIP](https://pypi.org/project/pip/) - Python Package manager. it shuold just come with your Python3 Installation
+* [PIP](https://pypi.org/project/pip/) - Python Package manager. It should just come with your Python3 Installation
 * [NodeJS](https://nodejs.org/en/) - Mainly just to make use of NPM 
 * [Django](https://www.djangoproject.com/) 
 * [React](https://reactjs.org/)
@@ -65,20 +65,28 @@ Taken from package.json file
 ## Core Feature still needed
 
 > Deployment - Needs system in place in order to deploy a production version of the application
+
 > System Lens - The system lens configuration system still needs to be built 
+
 > Purchasing/store functionality - users needs to be able to purchase their configurations
 
 ## Other Issues and Bugs
 
 > Some scaling issues with svgs (especially the larger svgs such as the System Lens)
+
 > Drop down controls affect each other in left column
+
 > Need to limit information on records returned from database in the lens stack section 
+
 
 ## Possible Future Features 
 
 > Login system to save configurations
+
 > Fully fleshed out forum attached to the configurator (or Mercury instagram)
+
 > Create Default Bundles available to purchase as base configurations
+
 > Have Mercury warehouse catalog, where any part available can be purchased with needing to be a part of a config (for advanced users)
 
 
